@@ -59,47 +59,6 @@
 
 <a id="showcase"></a>
 
-## 📸 Real In-Game Showcase
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="assets/01-hero-skyline.png" alt="Golden-Hour Metropolis, Suspension Bridges & Tower Cranes" width="100%" />
-<br />
-<sub><b>🌆 Golden-Hour Metropolis, Suspension Bridges &amp; Tower Cranes</b></sub>
-</td>
-<td align="center" width="50%">
-<img src="assets/02-night-billionaire.png" alt="Billionaires' Row Night Reflections & Super-Yachts" width="100%" />
-<br />
-<sub><b>👑 Billionaires' Row Night Reflections &amp; Super-Yachts</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="assets/03-street-drive.png" alt="First-Person Drive-a-Car, Pedestrians & Petrol Pumps" width="100%" />
-<br />
-<sub><b>🏎️ First-Person Drive-a-Car, Pedestrians &amp; Petrol Pumps (<kbd>V</kbd>)</b></sub>
-</td>
-<td align="center" width="50%">
-<img src="assets/04-airport-mega.png" alt="International Airport, Private Aviation & Coastal Skyline" width="100%" />
-<br />
-<sub><b>✈️ International Airport, Private Aviation &amp; Coastal Skyline</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="assets/05-underground-xray.png" alt="Underground X-Ray Subway Tunnels & Utilities View" width="100%" />
-<br />
-<sub><b>🚇 Underground X-Ray Subway Tunnels &amp; Utilities View (<kbd>U</kbd>)</b></sub>
-</td>
-<td align="center" width="50%">
-<img src="assets/06-analytics-ui.png" alt="CS2-Style Glassmorphic HUD & Live City Analytics" width="100%" />
-<br />
-<sub><b>📊 CS2-Style Glassmorphic HUD &amp; Live City Analytics (<kbd>G</kbd>)</b></sub>
-</td>
-</tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:070b14,35:0ea5e9,70:7c3aed,100:f59e0b&height=3" width="100%" alt="" />
 
 <a id="quick-start"></a>
