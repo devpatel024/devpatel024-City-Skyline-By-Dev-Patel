@@ -59,10 +59,6 @@
 
 <a id="showcase"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070b14,35:0ea5e9,70:7c3aed,100:f59e0b&height=3" width="100%" alt="" />
-
-<a id="quick-start"></a>
-
 ## 🚀 Quick Start
 
 > [!TIP]
